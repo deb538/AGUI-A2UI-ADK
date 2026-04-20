@@ -319,3 +319,9 @@ If this still happens intermittently:
 1. Reduce tool argument size / schema complexity
 2. Keep model at `openai/gpt-5-mini` for stability
 3. Add retry/repair logic around tool argument JSON parsing in tool-generation paths
+
+### Useful links
+https://developers.googleblog.com/a2ui-v0-9-generative-ui/
+https://github.com/CopilotKit/generative-ui
+https://www.copilotkit.ai/blog/build-with-googles-new-a2ui-spec-agent-user-interfaces-with-a2ui-ag-ui
+https://github.com/google/A2UI/blob/main/docs/guides/a2ui-with-any-agent-framework.md
